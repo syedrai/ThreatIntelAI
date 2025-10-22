@@ -1,0 +1,5 @@
+8.8.8.8
+1.1.1.1
+testphp.vulnweb.com
+malware.wicar.org
+example.com
